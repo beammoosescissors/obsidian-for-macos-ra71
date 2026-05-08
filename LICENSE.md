@@ -1,4 +1,4 @@
-
+Enhance Obsidian for macOS with Obsidian for macOS automatic Automation: focus mode & export to PDF, the #1 automation. Includes focus mode and export to PDF for a smoother
 
 
 
